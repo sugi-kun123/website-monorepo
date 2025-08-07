@@ -1,4 +1,4 @@
-// apps/company-a-website/tailwind.config.ts
+// apps/cube-rock/tailwind.config.ts
 import type { Config } from "tailwindcss";
 
 const config: Config = {
