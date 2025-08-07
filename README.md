@@ -88,6 +88,12 @@ yarn exec turbo dev --filter=web
 pnpm exec turbo dev --filter=web
 ```
 
+#### To make new site
+
+```
+npx create-next-app@latest apps/hogehoge
+```
+
 ### Remote Caching
 
 > [!TIP]
